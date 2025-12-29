@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Muxammadbobur Komiljonov<br><br>**Frontend Developer**<br><br>📍 Tashkent, Uzbekistan<br>📧 boburkomilovv@gmail.com<br>📱 +998-90-841-55-30<br>🌐 https://www.bobur.me/
+### Muxammadbobur Komiljonov<br><br>**Frontend Developer**<br><br>📍 Tashkent, Uzbekistan<br>📧 boburkomilovv@gmail.com<br>📱 +998-90-841-55-30<br>🌐 https://bobur.me
 
 
 ## 🌐 Socials:
